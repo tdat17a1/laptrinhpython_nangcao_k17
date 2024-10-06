@@ -1,0 +1,23 @@
+<danh_sach_sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>23174600041</ma_sinh_vien>
+        <ten_sinh_vien>Đỗ Tuấn Đạt</ten_sinh_vien>
+        <nam_sinh>2005</nam_sinh>
+        <lop>DHKL17A1HN</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>23174600062</ma_sinh_vien>
+        <ten_sinh_vien>Trần Thị Bình</ten_sinh_vien>
+        <nam_sinh>2005</nam_sinh>
+        <lop>DHKL17A2HN</lop>
+        <gioi_tinh>Nữ</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>23174600058</ma_sinh_vien>
+        <ten_sinh_vien>Lê Văn Cường</ten_sinh_vien>
+        <nam_sinh>2005</nam_sinh>
+        <lop>DHKL17A3HN</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+</danh_sach_sinh_vien>

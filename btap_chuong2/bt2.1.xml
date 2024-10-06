@@ -1,0 +1,12 @@
+<company> #cty
+    <director>
+        <name>Do Tuan Dat</name>
+    </director>
+    <address>
+         <street>Phan Đình Phùng</street>
+         <city>Hà Nội</city>
+         <country>Việt Nam</country>
+    </address>
+    <contacts> #phương thức liên lạc và mã số thuế
+        <phone>+84336420750</phone>
+        <msthue>8862919975</msthue>
