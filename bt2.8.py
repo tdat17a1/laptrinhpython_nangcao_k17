@@ -2,9 +2,9 @@ import json
 
 # Đối tượng Python (ví dụ dictionary)
 python_obj = {
-    "name": "Alice",
-    "age": 25,
-    "city": "London"
+    "name": "Tuấn Đạt",
+    "age": 19,
+    "city": "Hà Nam"
 }
 
 # Chuyển đối tượng Python thành chuỗi JSON
