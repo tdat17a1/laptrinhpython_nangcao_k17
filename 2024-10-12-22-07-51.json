@@ -1,0 +1,10 @@
+[
+    {
+        "type": "gold",
+        "amount": 3.0
+    },
+    {
+        "type": "money",
+        "amount": 200000.0
+    }
+]
